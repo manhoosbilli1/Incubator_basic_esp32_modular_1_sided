@@ -4078,6 +4078,12 @@
 		)
 	)
 	(junction
+		(at 52.07 40.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "04e581a7-76b3-47b7-9bc3-b0f03635462a")
+	)
+	(junction
 		(at 39.37 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4126,6 +4132,12 @@
 		(uuid "c085a778-708b-4492-9790-22a7e5b35db2")
 	)
 	(junction
+		(at 52.07 33.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cef5387a-06de-474e-bca7-f8d711396f35")
+	)
+	(junction
 		(at 114.3 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4150,20 +4162,116 @@
 		(uuid "e385583c-ea42-4c0f-92de-d537e1997587")
 	)
 	(no_connect
+		(at 134.62 109.22)
+		(uuid "01d4cd02-69fc-4855-87f6-0e5b17974439")
+	)
+	(no_connect
+		(at 175.26 101.6)
+		(uuid "03b10022-be3d-4e21-86da-be663a986d5a")
+	)
+	(no_connect
+		(at 175.26 134.62)
+		(uuid "0451fadc-5795-40b7-9936-755ec7d5c528")
+	)
+	(no_connect
+		(at 142.24 22.86)
+		(uuid "0e38d787-be88-4efb-9eff-9c48ef4f2014")
+	)
+	(no_connect
+		(at 134.62 144.78)
+		(uuid "0fd04436-ca0e-4fff-b3f2-c5e60c2a0d3a")
+	)
+	(no_connect
+		(at 134.62 142.24)
+		(uuid "102a0b77-5b90-421a-95ad-a08476fa0f8e")
+	)
+	(no_connect
+		(at 175.26 144.78)
+		(uuid "18bc0e0b-0fb3-4b13-8ec3-5a15d88f3556")
+	)
+	(no_connect
 		(at 148.59 184.15)
 		(uuid "1a2d574b-c4b9-49b9-8186-2bb9cc8f5d80")
+	)
+	(no_connect
+		(at 175.26 106.68)
+		(uuid "1ca89a60-b0cd-4298-aecc-70877ac10754")
+	)
+	(no_connect
+		(at 175.26 137.16)
+		(uuid "27dde819-4a88-430c-9c2a-8d2797ef307b")
 	)
 	(no_connect
 		(at 113.03 186.69)
 		(uuid "2dae1394-98fb-4ba1-95ce-f1dcae7e2997")
 	)
 	(no_connect
+		(at 175.26 127)
+		(uuid "46f497ad-f3a6-43d7-964f-2b8f5d8be0a1")
+	)
+	(no_connect
 		(at 148.59 186.69)
 		(uuid "58d105fb-16ff-45df-8c90-b971b599ffa7")
 	)
 	(no_connect
+		(at 175.26 129.54)
+		(uuid "60aebe5e-7538-4649-9c88-1eca5a66b39b")
+	)
+	(no_connect
+		(at 134.62 111.76)
+		(uuid "677702f9-950b-451d-8269-bacf699ca941")
+	)
+	(no_connect
+		(at 134.62 137.16)
+		(uuid "69014802-967c-4df7-84e0-8c4cc1d9180c")
+	)
+	(no_connect
+		(at 175.26 132.08)
+		(uuid "6f4902be-e78b-4c10-be7c-1a3fea5f7f69")
+	)
+	(no_connect
+		(at 134.62 104.14)
+		(uuid "77f5a97c-1808-4632-b709-a5216744f691")
+	)
+	(no_connect
+		(at 175.26 139.7)
+		(uuid "87d2332c-fd76-4de1-9415-28491cd2f731")
+	)
+	(no_connect
 		(at 113.03 184.15)
 		(uuid "917cd2cd-0651-40e5-8bd4-bcf994677e57")
+	)
+	(no_connect
+		(at 134.62 129.54)
+		(uuid "978fd656-34a3-4298-aacc-f907d0dee629")
+	)
+	(no_connect
+		(at 175.26 109.22)
+		(uuid "a4a3f655-c73e-42cd-8713-89ae79e1f9a8")
+	)
+	(no_connect
+		(at 204.47 21.59)
+		(uuid "abe8b29a-c99a-4780-8fee-dc6480183b8f")
+	)
+	(no_connect
+		(at 134.62 134.62)
+		(uuid "d1d49d75-1363-46b7-9f14-a67c65995f07")
+	)
+	(no_connect
+		(at 175.26 142.24)
+		(uuid "dfc9de22-da85-49aa-93f5-b43aa5a36c9e")
+	)
+	(no_connect
+		(at 134.62 139.7)
+		(uuid "e43570b4-adbf-4a76-b74a-306d2fc12d3d")
+	)
+	(no_connect
+		(at 134.62 101.6)
+		(uuid "e97e6dbb-bc4c-49ad-9903-eb410c2238ad")
+	)
+	(no_connect
+		(at 134.62 106.68)
+		(uuid "f6d2f449-7420-4850-b5e7-da6603291380")
 	)
 	(wire
 		(pts
@@ -4254,16 +4362,6 @@
 			(type default)
 		)
 		(uuid "0bad1ddf-39ad-4142-ad2e-3a0a8a4c0c24")
-	)
-	(wire
-		(pts
-			(xy 41.91 38.1) (xy 53.34 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0d0beb1f-ca30-4b7a-ac7d-cd3d886b8b6c")
 	)
 	(wire
 		(pts
@@ -4447,16 +4545,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 33.02) (xy 41.91 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3666c16e-315e-42f2-b759-27317c628559")
-	)
-	(wire
-		(pts
 			(xy 34.29 63.5) (xy 44.45 63.5)
 		)
 		(stroke
@@ -4517,6 +4605,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 124.46) (xy 175.26 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fcf161d-cf25-4ccf-bf95-06d415d91d7c")
+	)
+	(wire
+		(pts
 			(xy 118.11 99.06) (xy 134.62 99.06)
 		)
 		(stroke
@@ -4544,6 +4642,16 @@
 			(type default)
 		)
 		(uuid "49086cb7-7880-4a99-9cbc-fc2232ccecfb")
+	)
+	(wire
+		(pts
+			(xy 41.91 33.02) (xy 52.07 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d8b147e-e30a-4b3f-af8b-4b61eeb09851")
 	)
 	(wire
 		(pts
@@ -4717,6 +4825,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 40.64) (xy 41.91 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72f527a5-6fd9-45f8-9fd4-8e9b0661432c")
+	)
+	(wire
+		(pts
 			(xy 48.26 124.46) (xy 57.15 124.46)
 		)
 		(stroke
@@ -4887,6 +5005,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 116.84) (xy 134.62 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "995e5be4-7e2e-4d4d-83f0-bf96bcdca820")
+	)
+	(wire
+		(pts
 			(xy 240.03 39.37) (xy 266.7 39.37)
 		)
 		(stroke
@@ -4894,6 +5022,16 @@
 			(type default)
 		)
 		(uuid "9a2cfbd1-c47f-4a5d-99e2-0a5c387a0639")
+	)
+	(wire
+		(pts
+			(xy 52.07 40.64) (xy 55.88 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c8aad4b-158d-4868-ad34-c6ec81763fe9")
 	)
 	(wire
 		(pts
@@ -5027,6 +5165,36 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 114.3) (xy 134.62 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6a8ef32-16af-4a6b-9259-ad2a1c87e628")
+	)
+	(wire
+		(pts
+			(xy 52.07 33.02) (xy 55.88 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a716d690-5847-4002-9d99-0395516beb9a")
+	)
+	(wire
+		(pts
+			(xy 52.07 40.64) (xy 41.91 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8cca4c6-2692-4412-8836-599b69a57672")
+	)
+	(wire
+		(pts
 			(xy 104.14 44.45) (xy 106.68 44.45)
 		)
 		(stroke
@@ -5147,7 +5315,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 157.48) (xy 21.59 156.21)
+			(xy 21.59 162.56) (xy 21.59 156.21)
 		)
 		(stroke
 			(width 0)
@@ -5357,6 +5525,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 114.3) (xy 175.26 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f69f7732-93e6-4cf7-aa55-09a5802c89fd")
+	)
+	(wire
+		(pts
 			(xy 237.49 144.78) (xy 262.89 144.78)
 		)
 		(stroke
@@ -5557,16 +5735,6 @@
 		)
 		(uuid "a2cec7ba-cdfd-4bc5-9f6c-f9395317c482")
 	)
-	(text "***check capacitor values\n"
-		(exclude_from_sim no)
-		(at 38.862 133.604 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "b4357483-4fc6-4db4-af66-8b31c56756b3")
-	)
 	(text "12V Appliances\n"
 		(exclude_from_sim no)
 		(at 45.72 16.51 0)
@@ -5577,6 +5745,16 @@
 			)
 		)
 		(uuid "b6ed84cb-7c86-4faa-92e3-2801fd7e0a06")
+	)
+	(text "2.9V\n"
+		(exclude_from_sim no)
+		(at 47.752 115.57 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d766a603-001c-467d-8059-fdb0e81ea6e7")
 	)
 	(text "LOGIC LEVEL CONVERTOR\n"
 		(exclude_from_sim no)
@@ -5589,17 +5767,6 @@
 		)
 		(uuid "ddac7a4f-642c-4463-bb07-97dceff2adf7")
 	)
-	(text "CHECK WHAT RESISTORS YOU NEED  FOR THIS"
-		(exclude_from_sim no)
-		(at 14.986 103.886 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(color 255 57 52 1)
-			)
-		)
-		(uuid "df1985c6-8e06-486e-9718-25b0e75cd3f0")
-	)
 	(text "A 3 pin rotary encoder example: HW-40 model\n"
 		(exclude_from_sim no)
 		(at 253.492 135.382 0)
@@ -5609,6 +5776,16 @@
 			)
 		)
 		(uuid "f3a15370-93c0-4f34-ac49-4a6345ff4b49")
+	)
+	(text "2.9V\n"
+		(exclude_from_sim no)
+		(at 41.148 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fa5848d1-28ac-4557-b2b8-d643cf4e6355")
 	)
 	(text "Single fan for air circulation"
 		(exclude_from_sim no)
@@ -5707,6 +5884,17 @@
 			(justify left bottom)
 		)
 		(uuid "0ca8cbc8-eb15-4677-96db-e5c2f35e910f")
+	)
+	(label "LIM2"
+		(at 121.92 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0dcff531-ee85-4f1e-b471-a272845f6c3f")
 	)
 	(label "SCL"
 		(at 245.11 154.94 0)
@@ -5819,7 +6007,7 @@
 		(uuid "33bfd5d5-32ee-4884-b4d7-23c486606109")
 	)
 	(label "GND"
-		(at 45.72 38.1 0)
+		(at 45.72 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5862,17 +6050,6 @@
 		)
 		(uuid "3d2f30e6-b4f4-466c-bbf4-04e348d72542")
 	)
-	(label "HUM-MOST-D"
-		(at 58.42 110.49 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4510c724-2910-4805-9503-5997e71d757c")
-	)
 	(label "FUSE-CON"
 		(at 255.27 30.48 0)
 		(fields_autoplaced yes)
@@ -5894,17 +6071,6 @@
 			(justify left bottom)
 		)
 		(uuid "489aa0c9-a244-416a-9c6d-fab9d905b07d")
-	)
-	(label "FAN-MOS-D"
-		(at 53.34 91.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "48f61f17-ac93-4ed6-b632-6bf5e5438a84")
 	)
 	(label "+5V"
 		(at 124.46 16.51 0)
@@ -5961,6 +6127,28 @@
 		)
 		(uuid "5d9760d0-e530-4a6e-9929-34fbc5dd4c54")
 	)
+	(label "DHT22"
+		(at 176.53 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5e33feeb-2e82-4ad3-a1bd-8f1d97b9e967")
+	)
+	(label "GND"
+		(at 177.8 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5e5d7619-adf9-4957-a478-bfbf74274512")
+	)
 	(label "AC_N"
 		(at 147.32 17.78 270)
 		(fields_autoplaced yes)
@@ -5971,17 +6159,6 @@
 			(justify right bottom)
 		)
 		(uuid "5f2704f1-0104-4c49-b647-0e354d5fdd35")
-	)
-	(label "5V-CAP"
-		(at 24.13 156.21 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5fb83c7e-6445-4c95-b88c-188d48e217b5")
 	)
 	(label "GND"
 		(at 242.57 114.3 0)
@@ -6004,6 +6181,17 @@
 			(justify left bottom)
 		)
 		(uuid "6bbe24a5-7d93-4125-bdcc-d5062eaf9f32")
+	)
+	(label "LIM1"
+		(at 121.92 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74f4d459-8d03-492d-971e-28adc3ce6940")
 	)
 	(label "SDA"
 		(at 149.86 181.61 0)
@@ -6081,6 +6269,17 @@
 			(justify right bottom)
 		)
 		(uuid "87acf867-2e2c-4757-a7dd-e7f3d198551e")
+	)
+	(label "+5V"
+		(at 25.4 156.21 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "93e07243-ec77-4749-9824-cc65929ff610")
 	)
 	(label "SCL"
 		(at 245.11 142.24 0)
@@ -6886,6 +7085,28 @@
 			)
 		)
 	)
+	(global_label "LIM1"
+		(shape input)
+		(at 119.38 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "37659ffe-a089-4fc9-a524-917e69b71018")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 112.101 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "+3.3V"
 		(shape input)
 		(at 237.49 97.79 180)
@@ -7239,6 +7460,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 186.69 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7ffa8c16-4ef1-4259-a6ca-5524d19a6c4f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 193.5457 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SCL"
 		(shape input)
 		(at 237.49 142.24 180)
@@ -7323,6 +7566,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LIM2"
+		(shape input)
+		(at 119.38 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8dc61166-f062-4ead-bc6e-aa91a17191b1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 112.101 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7747,6 +8012,28 @@
 			)
 		)
 	)
+	(global_label "DHT22"
+		(shape input)
+		(at 186.69 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bf497f82-e42c-4234-8752-c96360db633d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 195.6623 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "HEATER+"
 		(shape input)
 		(at 240.03 46.99 180)
@@ -7968,6 +8255,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 134.62 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "db495174-1191-43a1-838e-10f4aeca19c9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 127.7643 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SDA"
 		(shape input)
 		(at 237.49 144.78 180)
@@ -8014,7 +8323,7 @@
 	)
 	(global_label "+12V"
 		(shape input)
-		(at 53.34 33.02 0)
+		(at 55.88 33.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8025,7 +8334,7 @@
 		)
 		(uuid "df22bc0d-0f3a-4bb8-9d96-178c3cbbeb25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.4052 33.02 0)
+			(at 63.9452 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8150,7 +8459,7 @@
 	)
 	(global_label "+5V"
 		(shape input)
-		(at 21.59 157.48 270)
+		(at 21.59 162.56 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8160,7 +8469,7 @@
 		)
 		(uuid "eb79f820-e922-4b24-a5fc-1ecdc12744a5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 21.59 164.3357 90)
+			(at 21.59 169.4157 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8216,7 +8525,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 53.34 38.1 0)
+		(at 55.88 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8226,7 +8535,7 @@
 		)
 		(uuid "fbe5621d-7bc9-47fb-8ec3-5460556be8d5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.1957 38.1 0)
+			(at 62.7357 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8312,7 +8621,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0987c32b-9d0e-43e4-ba67-54c2fcd2b6a7")
-		(property "Reference" "R5"
+		(property "Reference" "R1"
 			(at 34.29 90.17 90)
 			(effects
 				(font
@@ -8320,7 +8629,7 @@
 				)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "330"
 			(at 34.29 92.71 90)
 			(effects
 				(font
@@ -8328,7 +8637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 34.29 94.742 90)
 			(effects
 				(font
@@ -8364,7 +8673,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "R5")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -8379,7 +8688,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "09ee21fb-2743-49a1-99ee-dd778e5a26c2")
-		(property "Reference" "J7"
+		(property "Reference" "J4"
 			(at 51.562 43.688 0)
 			(effects
 				(font
@@ -8397,7 +8706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 49.53 43.18 0)
 			(effects
 				(font
@@ -8433,7 +8742,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J7")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -8449,7 +8758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e73aa76-b97d-4b15-acc0-8b249ec61583")
-		(property "Reference" "U1"
+		(property "Reference" "U4"
 			(at 154.94 91.44 0)
 			(effects
 				(font
@@ -8465,7 +8774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DEVKIT_V1_ESP32-WROOM-32:MODULE_DEVKIT_V1_ESP32-WROOM-32"
+		(property "Footprint" "wroom_esp32_module:MODULE_ESP32_DEVKIT_V1"
 			(at 154.94 121.92 0)
 			(effects
 				(font
@@ -8720,7 +9029,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "U1")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -8736,7 +9045,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1695173f-79b8-4b96-a162-ccaa75cc0436")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 179.07 31.7499 90)
 			(effects
 				(font
@@ -8808,7 +9117,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -8823,7 +9132,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26df4660-dfa8-4316-84fc-c2959917b1c1")
-		(property "Reference" "J10"
+		(property "Reference" "J6"
 			(at 51.816 61.214 0)
 			(effects
 				(font
@@ -8841,7 +9150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 49.53 60.96 0)
 			(effects
 				(font
@@ -8877,7 +9186,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J10")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -8973,7 +9282,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ce832e4-36d6-40a2-8a5a-12c70ab37b44")
-		(property "Reference" "J15"
+		(property "Reference" "J8"
 			(at 270.51 96.5199 0)
 			(effects
 				(font
@@ -8991,7 +9300,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 267.97 97.79 0)
 			(effects
 				(font
@@ -9030,7 +9339,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J15")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -9046,7 +9355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30c8e297-1fd9-4df3-8ab2-634113ba890b")
-		(property "Reference" "Q4"
+		(property "Reference" "Q1"
 			(at 54.61 95.2499 0)
 			(effects
 				(font
@@ -9106,7 +9415,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "Q4")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -9122,7 +9431,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36190186-5175-412d-87bf-c2ab762e359c")
-		(property "Reference" "J6"
+		(property "Reference" "J15"
 			(at 274.32 46.9899 0)
 			(effects
 				(font
@@ -9176,7 +9485,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J6")
+					(reference "J15")
 					(unit 1)
 				)
 			)
@@ -9192,7 +9501,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37193707-15d3-403d-bf88-0e60b0c79434")
-		(property "Reference" "J1"
+		(property "Reference" "J11"
 			(at 270.51 144.7799 0)
 			(effects
 				(font
@@ -9210,7 +9519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 267.97 144.78 0)
 			(effects
 				(font
@@ -9252,7 +9561,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J1")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -9268,7 +9577,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45a9c121-6d25-48ea-8fec-fc091b5b42be")
-		(property "Reference" "R6"
+		(property "Reference" "R3"
 			(at 41.91 110.49 90)
 			(effects
 				(font
@@ -9276,7 +9585,7 @@
 				)
 			)
 		)
-		(property "Value" "120"
+		(property "Value" "330"
 			(at 41.91 113.03 90)
 			(effects
 				(font
@@ -9284,7 +9593,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 41.91 115.062 90)
 			(effects
 				(font
@@ -9320,7 +9629,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "R6")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -9336,7 +9645,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ad57e67-5ada-4fbd-9c2b-25c83073accd")
-		(property "Reference" "Q1"
+		(property "Reference" "Q3"
 			(at 116.84 43.1799 0)
 			(effects
 				(font
@@ -9396,7 +9705,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "Q1")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -9492,7 +9801,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "528e876c-a47c-47de-8457-546e50b27007")
-		(property "Reference" "D3"
+		(property "Reference" "D1"
 			(at 53.34 82.5499 90)
 			(effects
 				(font
@@ -9564,7 +9873,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "D3")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -9580,7 +9889,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53b34ee8-b285-4bba-b379-faeebb4b1541")
-		(property "Reference" "C4"
+		(property "Reference" "C5"
 			(at 67.31 153.6699 0)
 			(effects
 				(font
@@ -9634,7 +9943,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "C4")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -9650,7 +9959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56e43eea-b3e7-4b4f-a29b-a2585ad81aea")
-		(property "Reference" "J11"
+		(property "Reference" "J3"
 			(at 34.29 26.67 0)
 			(effects
 				(font
@@ -9705,7 +10014,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J11")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -9791,7 +10100,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fa66240-e009-4e72-8acf-b6aa7e201ea4")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 25.4 144.7799 90)
 			(effects
 				(font
@@ -9849,7 +10158,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "U3")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -9865,7 +10174,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "616d34a8-f6cf-41c9-a380-a237dfede446")
-		(property "Reference" "Q2"
+		(property "Reference" "Q4"
 			(at 179.07 46.9899 0)
 			(effects
 				(font
@@ -9925,7 +10234,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "Q2")
+					(reference "Q4")
 					(unit 1)
 				)
 			)
@@ -9941,7 +10250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6669ffc8-b571-485a-9e14-103c877a2a8d")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 57.15 144.7799 90)
 			(effects
 				(font
@@ -9998,7 +10307,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "U4")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -10014,7 +10323,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66aaad35-467d-4ffc-bf1c-f2c9b36c18b0")
-		(property "Reference" "Q3"
+		(property "Reference" "Q2"
 			(at 60.96 115.5699 0)
 			(effects
 				(font
@@ -10074,7 +10383,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "Q3")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -10089,7 +10398,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6e9e0337-4af3-4fa4-a6b3-a978e48286b7")
-		(property "Reference" "J9"
+		(property "Reference" "J5"
 			(at 51.816 52.324 0)
 			(effects
 				(font
@@ -10107,7 +10416,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 49.53 52.07 0)
 			(effects
 				(font
@@ -10143,7 +10452,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J9")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -10229,7 +10538,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "97488135-b43b-4aa2-89e8-d943bfc1698c")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 50.8 119.3799 0)
 			(effects
 				(font
@@ -10238,7 +10547,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "10k"
 			(at 50.8 121.9199 0)
 			(effects
 				(font
@@ -10247,7 +10556,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 50.038 120.65 90)
 			(effects
 				(font
@@ -10283,7 +10592,77 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "R3")
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 52.07 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a86a9053-dceb-4d34-a2b7-da24328c7aa8")
+		(property "Reference" "C3"
+			(at 55.88 35.5599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100uF"
+			(at 55.88 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H5.0mm_P2.50mm"
+			(at 53.0352 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 52.07 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "af4ae117-7e85-4453-af4d-6e45e35ba329")
+		)
+		(pin "2"
+			(uuid "f8b5e148-9b83-4d60-b6ab-58c885c84591")
+		)
+		(instances
+			(project ""
+				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -10298,7 +10677,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ac4b0a91-fe9c-4168-b583-2ed63631521c")
-		(property "Reference" "J14"
+		(property "Reference" "J9"
 			(at 270.51 110.4899 0)
 			(effects
 				(font
@@ -10316,7 +10695,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 267.97 110.49 0)
 			(effects
 				(font
@@ -10358,7 +10737,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J14")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -10373,7 +10752,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aef2ebf1-dc70-438e-9c9c-10cb9a687d98")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 142.494 195.834 0)
 			(effects
 				(font
@@ -10586,7 +10965,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -10602,7 +10981,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b236f9f1-fb89-41a5-8ffa-88d44f7927fb")
-		(property "Reference" "J2"
+		(property "Reference" "J12"
 			(at 270.51 157.4799 0)
 			(effects
 				(font
@@ -10620,7 +10999,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 267.97 157.48 0)
 			(effects
 				(font
@@ -10662,7 +11041,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J2")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -10746,7 +11125,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c6f702c2-bae3-4344-836c-1bd990da48c8")
-		(property "Reference" "J5"
+		(property "Reference" "J2"
 			(at 22.86 181.6101 0)
 			(effects
 				(font
@@ -10764,7 +11143,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
 			(at 25.4 181.61 0)
 			(effects
 				(font
@@ -10800,7 +11179,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J5")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -10816,7 +11195,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c8109efa-738b-4372-8106-ff2b8c98c555")
-		(property "Reference" "C3"
+		(property "Reference" "C4"
 			(at 67.31 138.4299 0)
 			(effects
 				(font
@@ -10870,7 +11249,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "C3")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -10886,7 +11265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0c9ba19-83e5-4ee3-98f0-313e96d54813")
-		(property "Reference" "J13"
+		(property "Reference" "J7"
 			(at 270.51 86.3599 0)
 			(effects
 				(font
@@ -10904,7 +11283,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 267.97 86.36 0)
 			(effects
 				(font
@@ -10940,7 +11319,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J13")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -10954,9 +11333,8 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d1b74f2b-19e0-42b8-97b4-720885521188")
-		(property "Reference" "J8"
+		(property "Reference" "J10"
 			(at 270.51 126.9999 0)
 			(effects
 				(font
@@ -10966,7 +11344,7 @@
 			)
 		)
 		(property "Value" "Rotary encoder"
-			(at 270.51 129.5399 0)
+			(at 270.002 129.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10974,7 +11352,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 267.97 128.27 0)
 			(effects
 				(font
@@ -11019,7 +11397,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J8")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -11035,7 +11413,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d33a41b3-2e69-4c8b-b102-8e6447b114f5")
-		(property "Reference" "J3"
+		(property "Reference" "J13"
 			(at 274.32 30.4799 0)
 			(effects
 				(font
@@ -11053,7 +11431,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TerminalBlock_Altech:Altech_AK100_1x02_P5.00mm"
 			(at 271.78 30.48 0)
 			(effects
 				(font
@@ -11089,7 +11467,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J3")
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -11105,7 +11483,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d43d61a9-cc30-4c55-842f-727d7ce473b5")
-		(property "Reference" "R1"
+		(property "Reference" "R6"
 			(at 168.91 50.7999 0)
 			(effects
 				(font
@@ -11159,7 +11537,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "R1")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -11175,7 +11553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d9f4157e-1243-46a3-a89d-09273d36e9fe")
-		(property "Reference" "J12"
+		(property "Reference" "J14"
 			(at 274.32 39.3699 0)
 			(effects
 				(font
@@ -11229,7 +11607,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J12")
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -11245,7 +11623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e390f32d-c767-47c0-b197-019a41713ca3")
-		(property "Reference" "R4"
+		(property "Reference" "R2"
 			(at 43.18 99.0599 0)
 			(effects
 				(font
@@ -11254,7 +11632,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330"
+		(property "Value" "10k"
 			(at 43.18 101.5999 0)
 			(effects
 				(font
@@ -11263,7 +11641,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 42.418 100.33 90)
 			(effects
 				(font
@@ -11299,7 +11677,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "R4")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -11315,7 +11693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e52ea54b-afa4-47a2-bc10-b48981d0eba3")
-		(property "Reference" "R2"
+		(property "Reference" "R5"
 			(at 106.68 46.9899 0)
 			(effects
 				(font
@@ -11333,7 +11711,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
 			(at 105.918 48.26 90)
 			(effects
 				(font
@@ -11369,7 +11747,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "R2")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -11385,7 +11763,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e570b88b-f9ae-4576-9a34-e023e80f5422")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 116.84 29.2099 90)
 			(effects
 				(font
@@ -11457,7 +11835,7 @@
 		(instances
 			(project ""
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -11473,7 +11851,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "faa09d82-ce09-4414-9f0c-734ae98913d6")
-		(property "Reference" "J4"
+		(property "Reference" "J1"
 			(at 22.86 173.9901 0)
 			(effects
 				(font
@@ -11491,7 +11869,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal"
 			(at 25.4 173.99 0)
 			(effects
 				(font
@@ -11527,7 +11905,7 @@
 		(instances
 			(project "Incubator_Quetta-Client"
 				(path "/7257211d-4bc9-4faf-aa16-8919e447c745"
-					(reference "J4")
+					(reference "J1")
 					(unit 1)
 				)
 			)
