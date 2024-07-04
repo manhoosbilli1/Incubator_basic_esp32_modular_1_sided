@@ -15,5 +15,5 @@ contains:
 - supposed to be delivered in a box with AC=DC convertor, jack, connection points board to box.
 - App will be released soon that will report sensor data using firebase. 
 
-![Schematic](schematic.png)
-![Build v1.3](Incubator.png)
+![Schematic](schematic.jpeg)
+![Build v1.3](Incubator_Quetta-Client_PCB.png)
