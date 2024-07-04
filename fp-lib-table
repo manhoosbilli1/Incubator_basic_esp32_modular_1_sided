@@ -2,5 +2,6 @@
   (version 7)
   (lib (name "BOB-12009")(type "KiCad")(uri "${KIPRJMOD}/BOB-12009")(options "")(descr ""))
   (lib (name "logic-level-shifter-4CH")(type "KiCad")(uri "${KIPRJMOD}/logic-level-shifter-4CH")(options "")(descr ""))
-  (lib (name "wroom_esp32_module")(type "KiCad")(uri "${KIPRJMOD}/wroom_esp32_module")(options "")(descr ""))
+  (lib (name "DEVKIT_V1_ESP32-WROOM-32")(type "KiCad")(uri "${KIPRJMOD}/DEVKIT_V1_ESP32-WROOM-32")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "${KIPRJMOD}/logo")(options "")(descr ""))
 )
